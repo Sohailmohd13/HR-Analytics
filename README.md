@@ -206,7 +206,7 @@ The Power BI dashboard provides an interactive overview of employee attrition.
 
 ## 📊 Power BI Dashboard
 
-![HR Analytics Dashboard](Dashboard_Img.png)
+![HR Analytics Dashboard](Images/Dashboard_Img.png)
 
 ---
 
